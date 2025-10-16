@@ -1,6 +1,6 @@
 import React from 'react'
 
-function InputOne({firstWord, setFirstWord}) {
+function First({firstWord, setFirstWord}) {
     return (
         <input
         type='text'
@@ -13,4 +13,4 @@ function InputOne({firstWord, setFirstWord}) {
     )
 }
 
-export default InputOne;
+export default First;

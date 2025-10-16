@@ -1,6 +1,6 @@
 import React from 'react';
 
-function ImportTwo({secondWord, setSecondWord}) {
+function Second({secondWord, setSecondWord}) {
     return (
         <input
         type='text'
@@ -13,4 +13,4 @@ function ImportTwo({secondWord, setSecondWord}) {
     )
 }
 
-export default InputTwo;
+export default Second;

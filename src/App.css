@@ -18,9 +18,16 @@
 
 .box {
     border: 10px rgb(0, 0, 0) solid;
-    width: 50vw;
-    height: 50vh;
+    width: 90%;
+    max-width: 600px;
+    height: auto;
+    min-height: 200px;
     background-color: white;
+
+    gap: 20px;
+    padding: 20px;
+
+    box-sizing: border-box;
     
 }
 
@@ -28,6 +35,12 @@ h1 {
     font-size: 56px;
     color: black;
 
+}
+
+.input {
+    width: 100%;
+    max-width: 300px;
+    font-size: 1.5rem;
 }
 
 button {
