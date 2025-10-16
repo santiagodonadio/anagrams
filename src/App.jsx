@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import React from 'react';
 import './App.css';
-import InputOne from './InputOne.jsx';
+import InputOne from './inputOne.jsx';
 import InputTwo from './InputTwo.jsx';
 
 function App() {
