@@ -29,3 +29,18 @@ h1 {
     color: black;
 
 }
+
+button {
+    color: rgb(241, 154, 26);
+    font-weight: bold;
+    text-shadow: .5px .5px .5px black;
+    background-color: rgb(175, 174, 173);
+}
+
+button:hover{
+    color: white;
+    cursor: pointer;
+    background-color: rgb(114, 112, 109);
+}
+
+
