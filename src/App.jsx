@@ -8,8 +8,7 @@ function App() {
   return (
     <div className='container center-flex'>
         <div className='box center-flex'>
-            <h1>Valid Anagram</h1>
-            <h2>H2 element</h2>
+            <h1>Anagram Checker</h1>
         </div>
     </div>
   )
